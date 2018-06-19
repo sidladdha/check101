@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Corda-Platform-Version: 1
+Corda-Revision: ce79b80d6acb5dc90787bb62d364d47763f4e6f0
+Corda-Vendor: Corda Open Source
+Corda-Release-Version: 0.13.0
+
